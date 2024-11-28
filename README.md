@@ -1,1 +1,2 @@
 # Data-Analytics-Specialist-DEPI-
+This project is about to explore, analyze, and visualize crime data from Boston to identify patterns, trends, and correlations that can inform law enforcement decision-making. By leveraging data analytics tools such as Excel, Python, and Tableau.It aims to develop comprehensive insights that could support effective crime prevention measures, improve community safety, and contribute to efficient resource allocation.The project is summbiltted as a graduation requitments from DEPI.
